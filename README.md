@@ -42,7 +42,8 @@ Press `q` to exit the live window.
 
 ## Screenshot Example
 
-*(Include an example screenshot of detection here if available)*
+<img width="952" height="766" alt="image" src="https://github.com/user-attachments/assets/700c457c-87a7-41ad-a728-02ba8ac31754" />
+
 
 ## Future Improvements
 

@@ -1,4 +1,4 @@
-# YOLOv8 Real-Time Object Detection 🎥🚀
+# YOLOv8 Real-Time Object Detection 
 
 This project demonstrates real-time object detection using Ultralytics YOLOv8 with a live webcam feed. It leverages OpenCV for video streaming and YOLOv8 for state-of-the-art object detection.
 
@@ -9,14 +9,22 @@ This project supports real-time detection using your webcam, YOLOv8 pre-trained 
 Clone this repository:
 ```bash
 git clone https://github.com/Oyefusi-Samuel/YOLO-V8-OBJECT-DETECTION-.git
+```
+```
 cd YOLO-V8-OBJECT-DETECTION-
 ```
 
 Create and activate a virtual environment:
 ```bash
 python -m venv venv
-.env\Scriptsctivate   # Windows
-source venv/bin/activate  # Mac/Linux
+```
+ # Windows
+```
+.env\Scripts/ctivate
+```
+# Mac/Linux
+```
+source venv/bin/activate  
 ```
 
 Install dependencies:
